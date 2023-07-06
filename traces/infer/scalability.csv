@@ -1,0 +1,2 @@
+num_nodes,num_replicas,local_bsz,step_time,sync_time
+1,1,1,0,0
